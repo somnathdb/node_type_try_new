@@ -1,11 +1,9 @@
 name: node_type_try_new
-
 on:
   push:
     branches: ["main"]
   pull_request:
     branches: ["main"]
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
