@@ -1,5 +1,3 @@
 node_module
 .git
-.env
 dist
-Dockerfile
