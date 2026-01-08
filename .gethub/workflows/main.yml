@@ -1,4 +1,4 @@
-name: node_type_try
+name: node_type_try_new
 
 on:
   push:
